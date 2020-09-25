@@ -28,6 +28,10 @@ div,h1,h2,h5,p,a{
 .navbar ul li a:hover{
     color: #9AEDA2 !important;
 }
+.navbar-brand img{
+    width: 100%;
+    
+}
 .cart{
     padding-top: 10px;
 }
